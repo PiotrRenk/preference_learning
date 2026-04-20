@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+ann_utadis.pt
+DA_preferance_learning_project.pdf
+
+/lab
+lab/
+DA_preference_learning_project.pdf
